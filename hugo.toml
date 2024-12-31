@@ -10,7 +10,18 @@ enableGlobalLanguageMenu = true
 enableMissingTranslationPlaceholders = true
 
 [params]
-
+  [params.logo]
+    logoMark     = ">"
+    logoText     = "$ echo 'Olá Mundo!'"
+    logoHomeLink = "/"
+    # Set true to remove the logo cursor entirely.
+    # logoCursorDisabled = false
+    # Set to a valid CSS color to change the cursor in the logo.
+    logoCursorColor    = "#00ff04"
+    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
+    # logoCursorAnimate  = "2s"
+    # Append the current url pathname to logoText 
+    # logoCursorPathname = true
 
 [languages]
   [languages.pt-br]
@@ -50,3 +61,5 @@ enableMissingTranslationPlaceholders = true
         weight = 2
     [languages.en.params]
       subtitle = 'Data'
+      [languages.en.params.logo]
+        logoText = "$ echo 'Hello World!'"
