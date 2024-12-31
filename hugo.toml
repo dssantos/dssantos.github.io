@@ -1,0 +1,50 @@
+baseURL = 'http://localhost:1313'
+languageCode = 'pt-br'
+title = 'Danilo Santos'
+theme = 'hello-friend-ng'
+
+
+defaultContentLanguage = 'pt'
+defaultContentLanguageInSubdir = true
+
+[params]
+
+
+[languages]
+  [languages.pt]
+    contentDir = 'content/pt'
+    disabled = false
+    languageCode = 'pt-BR'
+    languageName = 'Português'
+    title = 'Site Português'
+    weight = 1
+    [languages.pt.menus]
+      [[languages.pt.menus.main]]
+        name = 'Posts'
+        pageRef = '/posts'
+        weight = 1
+      [[languages.pt.menus.main]]
+        name = 'Sobre'
+        pageRef = '/about'
+        weight = 2
+    [languages.pt.params]
+      subtitle = 'Dados'
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Site English'
+    weight = 2
+    [languages.en.menus]
+      [[languages.en.menus.main]]
+        name = 'Posts'
+        pageRef = '/posts'
+        weight = 1
+      [[languages.en.menus.main]]
+        name = 'About'
+        pageRef = '/about'
+        weight = 2
+    [languages.en.params]
+      subtitle = 'Data'
