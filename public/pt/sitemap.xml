@@ -2,45 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pt/posts/</loc>
-    <lastmod>2024-12-31T01:37:59-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-BR"
-                href="http://localhost:1313/pt/posts/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/pt/</loc>
-    <lastmod>2024-12-31T01:37:59-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-BR"
-                href="http://localhost:1313/pt/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/pt/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-BR"
-                href="http://localhost:1313/pt/about/"
-                />
-  </url><url>
     <loc>http://localhost:1313/pt/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://localhost:1313/pt-br/categories/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -48,11 +15,33 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-BR"
+                hreflang="pt"
                 href="http://localhost:1313/pt/categories/"
                 />
   </url><url>
+    <loc>http://localhost:1313/pt/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://localhost:1313/pt-br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/"
+                />
+  </url><url>
     <loc>http://localhost:1313/pt/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://localhost:1313/pt-br/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -60,7 +49,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-BR"
+                hreflang="pt"
                 href="http://localhost:1313/pt/tags/"
                 />
   </url>

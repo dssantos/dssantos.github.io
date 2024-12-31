@@ -8,5 +8,18 @@
         <lastBuildDate>Tue, 31 Dec 2024 01:37:59 -0300</lastBuildDate>
         <atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
         
+        <item>
+            <title>Hello World</title>
+            <link>http://localhost:1313/en/posts/hello-world/</link>
+            <pubDate>Tue, 31 Dec 2024 01:37:59 -0300</pubDate>
+            
+            <guid>http://localhost:1313/en/posts/hello-world/</guid>
+            <description>Title // your code here &amp;lt;h1&amp;gt;Hello&amp;lt;/h1&amp;gt; </description>
+            <content type="html"><![CDATA[<h1 id="title">Title</h1>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>  // your code here
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#f92672">h1</span>&gt;Hello&lt;/<span style="color:#f92672">h1</span>&gt;
+</span></span></code></pre></div>]]></content>
+        </item>
+        
     </channel>
 </rss>

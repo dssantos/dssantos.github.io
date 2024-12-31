@@ -4,37 +4,39 @@ title = 'Danilo Santos'
 theme = 'hello-friend-ng'
 
 
-defaultContentLanguage = 'pt'
+defaultContentLanguage = 'pt-br'
 defaultContentLanguageInSubdir = true
+enableGlobalLanguageMenu = true
+enableMissingTranslationPlaceholders = true
 
 [params]
 
 
 [languages]
-  [languages.pt]
-    contentDir = 'content/pt'
+  [languages.pt-br]
+    contentDir = 'content/pt-br'
     disabled = false
     languageCode = 'pt-BR'
-    languageName = 'Português'
+    languageName = 'Pt-Br'
     title = 'Site Português'
     weight = 1
-    [languages.pt.menus]
-      [[languages.pt.menus.main]]
+    [languages.pt-br.menus]
+      [[languages.pt-br.menus.main]]
         name = 'Posts'
         pageRef = '/posts'
         weight = 1
-      [[languages.pt.menus.main]]
+      [[languages.pt-br.menus.main]]
         name = 'Sobre'
         pageRef = '/about'
         weight = 2
-    [languages.pt.params]
+    [languages.pt-br.params]
       subtitle = 'Dados'
   [languages.en]
     contentDir = 'content/en'
     disabled = false
     languageCode = 'en-US'
     languageDirection = 'ltr'
-    languageName = 'English'
+    languageName = 'En'
     title = 'Site English'
     weight = 2
     [languages.en.menus]
