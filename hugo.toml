@@ -1,6 +1,7 @@
-baseURL = 'http://localhost:1313'
+baseURL = 'https://danilosantos.info'
 languageCode = 'pt-br'
 title = 'Danilo Santos'
+description = "Publicações sobre desenvolvimento e tecnologia."
 theme = 'hello-friend-ng'
 
 
@@ -23,13 +24,23 @@ enableMissingTranslationPlaceholders = true
     # Append the current url pathname to logoText 
     # logoCursorPathname = true
 
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
+  # Addon: Startpage portrait 
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+  # Uncomment this if you want a portrait on your start page
+
+  [params.portrait]
+    path     = "/img/photo-blog.jpg"
+    alt      = "Portrait"
+    maxWidth = "200px"
+
 [languages]
   [languages.pt-br]
     contentDir = 'content/pt-br'
     disabled = false
     languageCode = 'pt-BR'
     languageName = 'Pt-Br'
-    title = 'Site Português'
+    title = 'Danilo Santos'
     weight = 1
     [languages.pt-br.menus]
       [[languages.pt-br.menus.main]]
@@ -48,7 +59,8 @@ enableMissingTranslationPlaceholders = true
     languageCode = 'en-US'
     languageDirection = 'ltr'
     languageName = 'En'
-    title = 'Site English'
+    title = 'Danilo Santos'
+    description = "Publications on development and technology."
     weight = 2
     [languages.en.menus]
       [[languages.en.menus.main]]
