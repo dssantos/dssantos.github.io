@@ -25,6 +25,7 @@ defaultContentLanguageInSubdir = true
     contentDir = 'content/pt-br'
     disabled = false
     languageCode = 'pt-BR'
+    languageName = 'Pt-Br'
     weight = 1
     [languages.pt-br.menus]
       [[languages.pt-br.menus.main]]
