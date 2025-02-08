@@ -1,9 +1,23 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://danilosantos.info'
+languageCode = 'pt-br'
+title = 'Danilo Santos'
+description = "Publicações sobre desenvolvimento e tecnologia."
 theme = 'hello-friend-ng'
 
 defaultContentLanguage = 'pt-br'
+
+[params]
+  [params.logo]
+    logoMark     = ">"
+    logoText     = "$ echo 'Olá Mundo!'"
+    logoHomeLink = "/"
+    logoCursorColor    = "#00ff04"
+
+  [params.portrait]
+    path     = "/img/photo-blog.jpg"
+    alt      = "Portrait"
+    maxWidth = "200px"
+
 
 [languages]
   [languages.pt-br]
