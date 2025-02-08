@@ -14,8 +14,9 @@
             <pubDate>Sat, 08 Feb 2025 18:18:43 -0300</pubDate>
             
             <guid>http://localhost:1313/posts/hello-world/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
+            <description>Olá Mundo! </description>
+            <content type="html"><![CDATA[<h2 id="olá-mundo">Olá Mundo!</h2>
+]]></content>
         </item>
         
     </channel>

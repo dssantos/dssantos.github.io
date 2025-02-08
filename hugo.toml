@@ -5,6 +5,7 @@ description = "Publicações sobre desenvolvimento e tecnologia."
 theme = 'hello-friend-ng'
 
 defaultContentLanguage = 'pt-br'
+defaultContentLanguageInSubdir = true
 
 [params]
   [params.logo]
@@ -30,3 +31,25 @@ defaultContentLanguage = 'pt-br'
         name = 'Posts'
         pageRef = '/posts'
         weight = 1
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'En'
+    title = 'Danilo Santos'
+    weight = 2
+    [languages.en.menus]
+      [[languages.en.menus.main]]
+        name = 'Posts'
+        pageRef = '/posts'
+        weight = 1
+      [[languages.en.menus.main]]
+        name = 'About'
+        pageRef = '/about'
+        weight = 2
+    [languages.en.params]
+      subtitle = 'Data'
+      description = "Publications on development and technology."
+      [languages.en.params.logo]
+        logoText = "$ echo 'Hello World!'"
