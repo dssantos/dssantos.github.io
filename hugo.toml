@@ -32,6 +32,10 @@ defaultContentLanguageInSubdir = true
         name = 'Posts'
         pageRef = '/posts'
         weight = 1
+      [[languages.pt-br.menus.main]]
+        name = 'Sobre'
+        pageRef = '/about'
+        weight = 2
   [languages.en]
     contentDir = 'content/en'
     disabled = false

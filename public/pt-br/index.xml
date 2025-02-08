@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/pt-br/posts/hello-world/</guid>
       <description>Olá Mundo! </description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pt-br/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/about/</guid>
+      <description>Sobre Mim </description>
+    </item>
   </channel>
 </rss>

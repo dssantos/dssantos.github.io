@@ -41,6 +41,18 @@
                 href="http://localhost:1313/pt-br/posts/"
                 />
   </url><url>
+    <loc>http://localhost:1313/pt-br/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://localhost:1313/pt-br/about/"
+                />
+  </url><url>
     <loc>http://localhost:1313/pt-br/categories/</loc>
     <xhtml:link
                 rel="alternate"
