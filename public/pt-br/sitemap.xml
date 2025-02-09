@@ -2,12 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/pt-br/tags/blog/</loc>
+    <lastmod>2025-02-08T18:18:43-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en-us/tags/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://localhost:1313/pt-br/tags/blog/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-br/categories/</loc>
+    <lastmod>2025-02-08T18:18:43-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en-us/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://localhost:1313/pt-br/categories/"
+                />
+  </url><url>
     <loc>http://localhost:1313/pt-br/</loc>
     <lastmod>2025-02-08T18:18:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/"
+                hreflang="en-us"
+                href="http://localhost:1313/en-us/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -15,12 +41,41 @@
                 href="http://localhost:1313/pt-br/"
                 />
   </url><url>
+    <loc>http://localhost:1313/pt-br/categories/desenvolvimento-web/</loc>
+    <lastmod>2025-02-08T18:18:43-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/tags/github-pages/</loc>
+    <lastmod>2025-02-08T18:18:43-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en-us/tags/github-pages/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://localhost:1313/pt-br/tags/github-pages/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-br/tags/hugo/</loc>
+    <lastmod>2025-02-08T18:18:43-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en-us/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://localhost:1313/pt-br/tags/hugo/"
+                />
+  </url><url>
     <loc>http://localhost:1313/pt-br/posts/hello-world/</loc>
     <lastmod>2025-02-08T18:18:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/posts/hello-world/"
+                hreflang="en-us"
+                href="http://localhost:1313/en-us/posts/hello-world/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -32,8 +87,8 @@
     <lastmod>2025-02-08T18:18:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/posts/"
+                hreflang="en-us"
+                href="http://localhost:1313/en-us/posts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -41,40 +96,32 @@
                 href="http://localhost:1313/pt-br/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt-br/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-BR"
-                href="http://localhost:1313/pt-br/about/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/pt-br/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-BR"
-                href="http://localhost:1313/pt-br/categories/"
-                />
+    <loc>http://localhost:1313/pt-br/tags/publica%C3%A7%C3%B5es/</loc>
+    <lastmod>2025-02-08T18:18:43-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pt-br/tags/</loc>
+    <lastmod>2025-02-08T18:18:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/tags/"
+                hreflang="en-us"
+                href="http://localhost:1313/en-us/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
                 href="http://localhost:1313/pt-br/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-br/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en-us/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://localhost:1313/pt-br/about/"
                 />
   </url>
 </urlset>
