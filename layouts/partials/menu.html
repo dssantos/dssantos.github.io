@@ -3,6 +3,8 @@
         {{ if .IsTranslated }}
           {{ range .Translations }}
               <a href="{{ .Permalink }}"><span class="flag fi fi-{{ index $.Site.Data.langFlags (.Lang) }}"></span></a>
+              <p>{{ $.Site.Data.langFlags }}</p>
+              <p>{{ .Lang }}</p>
           {{ end}}
         {{ end }}
 
