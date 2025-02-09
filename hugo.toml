@@ -19,6 +19,25 @@ defaultContentLanguageInSubdir = true
     alt      = "Portrait"
     maxWidth = "200px"
 
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
+  # Addon: Social icons
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+  #
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/dssantos/"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/danilo-da-silva-santos/"
+
+  [[params.social]]
+    name = "stackoverflow"
+    url  = "https://stackoverflow.com/users/12758107/danilo-santos/"
+
+  [[params.social]]
+    name = "youtube"
+    url  = "https://www.youtube.com/@danilosantos1986/"
 
 [languages]
   [languages.pt-br]
