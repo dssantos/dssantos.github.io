@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://danilosantos.info/en/</loc>
     <lastmod>2025-02-08T18:18:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/pt-br/"
+                href="https://danilosantos.info/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/"
+                href="https://danilosantos.info/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/hello-world/</loc>
+    <loc>https://danilosantos.info/en/posts/hello-world/</loc>
     <lastmod>2025-02-08T18:18:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/pt-br/posts/hello-world/"
+                href="https://danilosantos.info/pt-br/posts/hello-world/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/posts/hello-world/"
+                href="https://danilosantos.info/en/posts/hello-world/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/</loc>
+    <loc>https://danilosantos.info/en/posts/</loc>
     <lastmod>2025-02-08T18:18:43-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/pt-br/posts/"
+                href="https://danilosantos.info/pt-br/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/posts/"
+                href="https://danilosantos.info/en/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/about/</loc>
+    <loc>https://danilosantos.info/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/pt-br/about/"
+                href="https://danilosantos.info/pt-br/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/about/"
+                href="https://danilosantos.info/en/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://danilosantos.info/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/pt-br/categories/"
+                href="https://danilosantos.info/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/categories/"
+                href="https://danilosantos.info/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://danilosantos.info/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/pt-br/tags/"
+                href="https://danilosantos.info/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/tags/"
+                href="https://danilosantos.info/en/tags/"
                 />
   </url>
 </urlset>
