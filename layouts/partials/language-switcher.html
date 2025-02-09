@@ -1,4 +1,4 @@
-{{ if hugo.IsMultiLingual }}
+{{ if .Site.IsMultiLingual }}
 <nav aria-label="Language switcher">
     {{ range .Site.Languages }}
         {{ if eq . $.Site.Language }}

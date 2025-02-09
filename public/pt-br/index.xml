@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Danilo Santos</title>
-    <link>https://danilosantos.info/pt-br/</link>
+    <link>http://localhost:1313/pt-br/</link>
     <description>Recent content on Danilo Santos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 08 Feb 2025 18:18:43 -0300</lastBuildDate>
-    <atom:link href="https://danilosantos.info/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pt-br/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>https://danilosantos.info/pt-br/posts/hello-world/</link>
+      <link>http://localhost:1313/pt-br/posts/hello-world/</link>
       <pubDate>Sat, 08 Feb 2025 18:18:43 -0300</pubDate>
-      <guid>https://danilosantos.info/pt-br/posts/hello-world/</guid>
+      <guid>http://localhost:1313/pt-br/posts/hello-world/</guid>
       <description>Olá Mundo! </description>
     </item>
     <item>
       <title></title>
-      <link>https://danilosantos.info/pt-br/about/</link>
+      <link>http://localhost:1313/pt-br/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danilosantos.info/pt-br/about/</guid>
+      <guid>http://localhost:1313/pt-br/about/</guid>
       <description>Sobre Mim </description>
     </item>
   </channel>
