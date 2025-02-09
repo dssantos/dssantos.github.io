@@ -10,10 +10,10 @@
         
         <item>
             <title>Olá Mundo</title>
-            <link>http://localhost:1313/pt-br/posts/hello-world/</link>
+            <link>http://localhost:1313/pt-br/posts/ola-mundo/</link>
             <pubDate>Sat, 08 Feb 2025 18:18:43 -0300</pubDate>
             
-            <guid>http://localhost:1313/pt-br/posts/hello-world/</guid>
+            <guid>http://localhost:1313/pt-br/posts/ola-mundo/</guid>
             <description>Olá Mundo! </description>
             <content type="html"><![CDATA[<h2 id="olá-mundo">Olá Mundo!</h2>
 ]]></content>

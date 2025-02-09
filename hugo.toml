@@ -37,24 +37,24 @@ defaultContentLanguageInSubdir = true
         pageRef = '/about'
         weight = 2
     [languages.pt-br.params]
-  [languages.en-us]
-    contentDir = 'content/en-us'
+  [languages.us]
+    contentDir = 'content/us'
     disabled = false
-    languageCode = 'en-us'
+    languageCode = 'us'
     languageDirection = 'ltr'
     languageName = 'En'
     title = 'Danilo Santos'
     weight = 2
-    [languages.en-us.menus]
-      [[languages.en-us.menus.main]]
+    [languages.us.menus]
+      [[languages.us.menus.main]]
         name = 'Posts'
         pageRef = '/posts'
         weight = 1
-      [[languages.en-us.menus.main]]
+      [[languages.us.menus.main]]
         name = 'About'
         pageRef = '/about'
         weight = 2
-    [languages.en-us.params]
+    [languages.us.params]
       subtitle = 'Data'
-      [languages.en-us.params.logo]
+      [languages.us.params.logo]
         logoText = "$ echo 'Hello World!'"
