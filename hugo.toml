@@ -37,6 +37,7 @@ defaultContentLanguageInSubdir = true
         pageRef = '/about'
         weight = 2
     [languages.pt-br.params]
+      homeSubtitle = "Engenharia de Software | Automação | Inteligência de Negócios"
   [languages.en-us]
     contentDir = 'content/en-us'
     disabled = false
@@ -55,6 +56,6 @@ defaultContentLanguageInSubdir = true
         pageRef = '/about'
         weight = 2
     [languages.en-us.params]
-      subtitle = 'Data'
+      homeSubtitle = "Software Engineering | Automation | Business Intelligence"
       [languages.en-us.params.logo]
         logoText = "$ echo 'Hello World!'"
