@@ -7,10 +7,12 @@ theme = 'hello-friend-ng'
 defaultContentLanguage = 'pt-br'
 defaultContentLanguageInSubdir = true
 
+
 [params]
+  enableThemeToggle = true
   [params.logo]
     logoMark     = ">"
-    logoText     = "$ echo 'Olá Mundo!'"
+    logoText     = "danilosantos~$"
     logoHomeLink = "/"
     logoCursorColor    = "#00ff04"
 
@@ -76,5 +78,3 @@ defaultContentLanguageInSubdir = true
         weight = 2
     [languages.en-us.params]
       homeSubtitle = "Software Engineering | Automation | Business Intelligence"
-      [languages.en-us.params.logo]
-        logoText = "$ echo 'Hello World!'"

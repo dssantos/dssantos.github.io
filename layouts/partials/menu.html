@@ -1,10 +1,5 @@
 <nav class="menu">
     <ul class="menu__inner">
-        {{ if .IsTranslated }}
-          {{ range .Translations }}
-              <a href="{{ .Permalink }}"><span class="flag fi fi-{{ index $.Site.Data.langFlags (.Lang) }}"></span></a>
-          {{ end}}
-        {{ end }}
 
         {{- $currentPage := . -}}
         {{ range sort .Site.Menus.main ".Identifier" -}}
