@@ -1,7 +1,7 @@
 baseURL = 'https://danilosantos.info'
 languageCode = 'pt-br'
 title = 'Danilo Santos'
-description = "Publicações sobre desenvolvimento e tecnologia."
+description = "Engenharia de Software | Automação | Inteligência de Negócios."
 theme = 'hello-friend-ng'
 
 defaultContentLanguage = 'pt-br'
