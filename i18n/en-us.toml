@@ -1,0 +1,70 @@
+# Translations for English
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# Generic
+#
+[translations]
+other = "Translations"
+
+[postAvailable]
+other = "Also available in"
+
+
+# 404.html
+#
+[archives]
+other = "Archives"
+
+[home]
+other = "Home"
+
+[notFound]
+other = "Oops, page not found…"
+
+
+# posts/single.html
+#
+[readingTime]
+one   = "One minute"
+other = "{{ .Count }} minutes"
+
+[tableOfContents]
+other = "Table of Contents"
+
+[wordCount]
+one   = "One Word"
+other = "{{ .Count }} Words"
+
+[lastModified]
+other = "Last updated"
+
+# partials/pagination-list.html
+[pagination]
+newerPosts = "Newer posts"
+olderPosts = "Older posts"
+
+# partials/consent.html
+#
+[weWouldLikeToUse]
+other = "We would like to use"
+
+[thirdPartyCode]
+other = "third party code"
+
+[toImproveTheFunctionalityOfThisWebsite]
+other = "to improve the functionality of this website"
+
+[managePreferences]
+other = "Manage preferences"
+
+[deny]
+other = "Deny"
+
+[allow]
+other = "Allow"
+
+[savePreferences]
+other = "Save preferences"
+
+[allowAll]
+other = "Allow all"

@@ -1,0 +1,6 @@
+items:
+  - title: Google Anaytics
+    is_functional: true
+    script_file: ga.js
+    description_us: This code gives us insight into the number of people that visit our website, where they are from and what they are clicking on.
+    description_br: Este código nos dá uma visão sobre o número de pessoas que visitam nosso site, de onde elas são e no que estão clicando

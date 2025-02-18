@@ -11,6 +11,11 @@ defaultContentLanguageInSubdir = true
   [services.googleAnalytics]
     ID = 'G-526ZBV00C7'
 
+[privacy]
+  [privacy.googleAnalytics]
+    disable = false
+    respectDoNotTrack = false
+
 [params]
   enableThemeToggle = true
   [params.logo]
