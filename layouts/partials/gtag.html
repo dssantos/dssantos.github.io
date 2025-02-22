@@ -1,0 +1,21 @@
+<script>
+    function loadGoogleAnalytics() {
+      var gtagScript = document.createElement("script");
+      gtagScript.async = true;
+      gtagScript.src = "https://www.googletagmanager.com/gtag/js?id=G-526ZBV00C7";
+      document.head.appendChild(gtagScript);
+  
+      gtagScript.onload = function () {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){ dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-526ZBV00C7', { 'anonymize_ip': false });
+      };
+    }
+  
+    document.addEventListener("DOMContentLoaded", function () {
+      if (localStorage.getItem("cookieConsent")) {
+        loadGoogleAnalytics();
+      }
+    });
+  </script>  

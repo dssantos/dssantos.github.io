@@ -1,0 +1,44 @@
+<div id="cookie-consent-banner" class="cookie-banner">
+    <p>{{ i18n "cookieConsent" }} <a href="{{ "/privacy-policy/" | relLangURL }}">{{ i18n "privacyPolicy" }}.</a></p>
+    <button id="accept-cookies">Aceitar</button>
+  </div>
+  
+  <style>
+    .cookie-banner {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      background: #333;
+      color: #fff;
+      text-align: center;
+      padding: 10px;
+      display: none;
+      padding: 10px;
+    }
+    .cookie-banner a {
+      color: #ffcc00;
+    }
+    .cookie-banner button {
+      margin-left: 10px;
+      background: #ffcc00;
+      border: none;
+      padding: 5px 10px;
+      cursor: pointer;
+    }
+  </style>
+  
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      if (!localStorage.getItem("cookieConsent")) {
+        document.getElementById("cookie-consent-banner").style.display = "block";
+      }
+  
+      document.getElementById("accept-cookies").addEventListener("click", function () {
+        localStorage.setItem("cookieConsent", "true");
+        document.getElementById("cookie-consent-banner").style.display = "none";
+        loadGoogleAnalytics();
+      });
+    });
+  </script>
+  

@@ -43,28 +43,13 @@ other = "Last updated"
 newerPosts = "Newer posts"
 olderPosts = "Older posts"
 
-# partials/consent.html
+# partials/cookie-consent.html
 #
-[weWouldLikeToUse]
-other = "We would like to use"
+[cookieConsent]
+other = "We use cookies to improve your experience. By accepting, you agree to our"
 
-[thirdPartyCode]
-other = "third party code"
-
-[toImproveTheFunctionalityOfThisWebsite]
-other = "to improve the functionality of this website"
-
-[managePreferences]
-other = "Manage preferences"
-
-[deny]
-other = "Deny"
+[privacyPolicy]
+other = "privacy policy"
 
 [allow]
 other = "Allow"
-
-[savePreferences]
-other = "Save preferences"
-
-[allowAll]
-other = "Allow all"

@@ -43,28 +43,13 @@ other = "Última actualização"
 newerPosts = "Entradas mais recentes"
 olderPosts = "Entradas mais antigas"
 
-# partials/consent.html
+# partials/cookie-consent.html
 #
-[weWouldLikeToUse]
-other = "Gostaríamos de usar"
+[cookieConsent]
+other = "Usamos cookies para melhorar sua experiência. Ao aceitar, você concorda com nossa"
 
-[thirdPartyCode]
-other = "código de terceiros"
-
-[toImproveTheFunctionalityOfThisWebsite]
-other = "para melhorar a funcionalidade deste site"
-
-[managePreferences]
-other = "Escolher preferências"
-
-[deny]
-other = "Permitir"
+[privacyPolicy]
+other = "política de privacidade"
 
 [allow]
-other = "Negar"
-
-[savePreferences]
-other = "Salvar preferências"
-
-[allowAll]
-other = "Permitir tudo"
+other = "Aceitar"

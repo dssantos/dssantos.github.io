@@ -7,15 +7,6 @@ theme = 'hello-friend-ng'
 defaultContentLanguage = 'pt-br'
 defaultContentLanguageInSubdir = true
 
-[services]
-  [services.googleAnalytics]
-    ID = 'G-526ZBV00C7'
-
-[privacy]
-  [privacy.googleAnalytics]
-    disable = false
-    respectDoNotTrack = false
-
 [params]
   enableThemeToggle = true
   [params.logo]
