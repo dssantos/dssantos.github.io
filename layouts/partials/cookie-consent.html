@@ -1,6 +1,6 @@
 <div id="cookie-consent-banner" class="cookie-banner">
     <p>{{ i18n "cookieConsent" }} <a href="{{ "/privacy-policy/" | relLangURL }}">{{ i18n "privacyPolicy" }}.</a></p>
-    <button id="accept-cookies">Aceitar</button>
+    <button id="accept-cookies">{{ i18n "accept" }}</button>
   </div>
   
   <style>
@@ -16,15 +16,15 @@
       display: none;
       padding: 10px;
     }
-    .cookie-banner a {
-      color: #ffcc00;
-    }
     .cookie-banner button {
-      margin-left: 10px;
-      background: #ffcc00;
-      border: none;
-      padding: 5px 10px;
-      cursor: pointer;
+    display: block;
+    margin: 10px auto;
+    background: #232425;
+    border: none;
+    padding: 8px 15px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 5px;
     }
   </style>
   
