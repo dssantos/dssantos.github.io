@@ -46,10 +46,10 @@ olderPosts = "Entradas mais antigas"
 # partials/cookie-consent.html
 #
 [cookieConsent]
-other = "Usamos cookies para melhorar sua experiência. Ao aceitar, você concorda com nossa"
+other = "Usamos cookies para melhorar sua experiência. Veja como utilizamos as informações em nossa"
 
 [privacyPolicy]
 other = "política de privacidade"
 
-[accept]
-other = "Aceitar"
+[close]
+other = "Fechar"
