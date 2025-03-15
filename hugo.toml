@@ -7,6 +7,9 @@ theme = 'hello-friend-ng'
 defaultContentLanguage = 'pt-br'
 defaultContentLanguageInSubdir = true
 
+[security]
+  enableInlineShortcodes = true
+
 [params]
   enableThemeToggle = true
   [params.logo]
