@@ -4,7 +4,7 @@ description: "Learn how to set up a local Jupyter Notebook server using Docker t
 categories: ["Data Science"]
 tags: ["Jupyter", "Docker", "Data Science", "Python"]
 slug: "jupyter-server-docker"
-date: "2025-03-30T12:00:00-03:00"
+date: "2025-04-03T12:00:00-03:00"
 image: "/img/jupyter-server-docker.jpg"
 ---
 
