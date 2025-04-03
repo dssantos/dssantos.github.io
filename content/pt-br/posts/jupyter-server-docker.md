@@ -4,9 +4,10 @@ description: "Aprenda a configurar um servidor Jupyter Notebook localmente usand
 categories: ["Ciência de Dados"]
 tags: ["Jupyter", "Docker", "Data Science", "Python"]
 slug: "jupyter-server-docker"
-date: "2025-04-03T12:00:00-03:00"
+date: "2025-04-03T03:00:00-03:00"
 image: "/img/jupyter-server-docker.jpg"
 ---
+
 
 
 Se você estuda ou trabalha com **Ciência de Dados em Python**, o Jupyter Notebook é uma ferramenta essencial. Neste tutorial, vamos configurar um servidor **Jupyter Notebook** usando **Docker**, garantindo um ambiente pronto para uso sem necessidade de configurações manuais complexas.

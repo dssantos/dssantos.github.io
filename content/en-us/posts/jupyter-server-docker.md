@@ -4,9 +4,11 @@ description: "Learn how to set up a local Jupyter Notebook server using Docker t
 categories: ["Data Science"]
 tags: ["Jupyter", "Docker", "Data Science", "Python"]
 slug: "jupyter-server-docker"
-date: "2025-04-03T12:00:00-03:00"
+date: "2025-04-03T03:00:00-03:00"
 image: "/img/jupyter-server-docker.jpg"
 ---
+
+
 
 If you study or work with **Data Science in Python**, Jupyter Notebook is an essential tool. In this tutorial, we will set up a **Jupyter Notebook server** using **Docker**, providing a ready-to-use environment without complex manual configurations.
 
