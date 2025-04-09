@@ -8,6 +8,7 @@ date: "2025-04-08T15:00:30-03:00"
 image: "/img/ssh-hardening-server-linux.jpg"
 ---
 
+
 ## Server Hardening: Securing SSH Access with Enhanced Protection
 
 The internet is a hostile environment. If you have a **private server with SSH access**, it's essential to apply security measures to prevent unauthorized access.

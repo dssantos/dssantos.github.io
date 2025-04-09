@@ -8,6 +8,7 @@ date: "2025-04-08T15:00:30-03:00"
 image: "/img/ssh-hardening-server-linux.jpg"
 ---
 
+
 ## Hardening de Servidor: Protegendo o Acesso SSH com Segurança Reforçada
 
 A internet é um ambiente hostil. Se você tem um **servidor privado com acesso via SSH**, é essencial adotar práticas de segurança para protegê-lo contra acessos indevidos.
