@@ -27,7 +27,7 @@ Se você hospeda múltiplos apps ou serviços no seu servidor, o EasyPanel ajuda
 ## 🔒 Proteja seu VPS antes da instalação
 
 Antes de instalar o EasyPanel, recomendamos fortemente proteger seu servidor.  
-Siga nosso [guia de hardening de VPS](/pt-br/posts/ssh-hardening-servidor-linux/) para configurar firewall, fail2ban e proteções no SSH.
+Siga nosso [guia de hardening de VPS](/pt-br/posts/ssh-hardening-server-linux/) para configurar firewall, fail2ban e proteções no SSH.
 
 ---
 
